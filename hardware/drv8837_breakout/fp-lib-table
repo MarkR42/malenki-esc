@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name "drv8837_breakout")(type "KiCad")(uri "${KIPRJMOD}/drv8837_breakout.pretty")(options "")(descr ""))
-)
